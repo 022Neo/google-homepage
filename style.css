@@ -1,0 +1,56 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+header {
+    text-align: right;
+    margin: .7em;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+    padding: .3em;
+    
+}
+
+header button {
+  
+    padding: .57em 1.7em .57em 1.7em;
+    margin-left: 1.4em;
+    background-color:rgb(43, 125, 233);
+    color: white;
+    border-radius: .4em;
+    
+    
+}
+
+.button-application {
+    position: relative;
+    top: 6px;
+    left: 12px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.recherche {
+    text-align: center;
+}
+
+.find {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1.3em;
+}
+
+.b1 {
+    position: relative;
+    right: 0.2em;
+}
+.b2 {
+    position: relative;
+    left: 0.2em;
+}
